@@ -1,0 +1,16 @@
+get_data 1 100
+get_data 4 101
+get_data 4 102
+get_data 0 103
+multiply 103 103 104
+multiply 100 104 104
+multiply 101 103 105
+sum 104 105 104
+sum 104 102 104
+compare 104 0
+equal 39
+not_equal 42
+output 1
+exit
+output 0
+exit
